@@ -1,0 +1,17 @@
+{
+
+    "items": {
+        "shirt": {
+            "searchKeyWord": "Shirt",
+            "expectedItemResult": "Faded Short Sleeve T-shirts",
+            "price": "$16.51"
+        },
+
+        "dress": {
+            "searchKeyWord": "dress",
+            "expectedItemResult": "Printed Summer Dress",
+            "price": "$28.98"
+        }
+    }
+
+}

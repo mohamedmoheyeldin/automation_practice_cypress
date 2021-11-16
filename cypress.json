@@ -1,0 +1,6 @@
+{
+  "baseUrl":"http://automationpractice.com/index.php",
+  "viewportHeight":1080,
+  "viewportWidth":1920,
+  "retries": 0
+}
