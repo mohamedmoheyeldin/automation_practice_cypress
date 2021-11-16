@@ -1,3 +1,3 @@
-# automation_practice_cypress
+# Automation Practice Cypress
 
 [![CodeQL](https://github.com/mohamedmoheyeldin/automation_practice_cypress/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mohamedmoheyeldin/automation_practice_cypress/actions/workflows/codeql-analysis.yml)
